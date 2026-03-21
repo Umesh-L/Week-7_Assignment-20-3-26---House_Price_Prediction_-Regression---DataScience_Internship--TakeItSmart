@@ -86,7 +86,7 @@ Columns used:
   - Adjusted R2: 0.8895
   - RMSE: 82,897.69
 
-Verdict: Linear Regression is the better-performing model for this project.
+Verdict: Linear Regression is the better-performing model than K-Nearest Neighbour Regression.
 
 ## Output Visualizations
 
@@ -107,6 +107,9 @@ Verdict: Linear Regression is the better-performing model for this project.
 
 ### 6) Final Model Output Snapshot
 ![Final Model Output](output%20snapshots/Linear%20Regression%20and%20KNN%20Regression%20final%20output.png)
+
+## Project Explanation Video
+https://github.com/user-attachments/assets/87b8bf6c-1817-499c-bd00-adada0272117
 
 ## Tech Stack
 
@@ -135,10 +138,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 - The assignment/problem statement document is included at:
   - Input Dataset and project info pdf/Machine Learning Task1_new.pdf
-
-## Project Explanation Video
-
-Project Explanation Video here:
 
 ## Author
 
